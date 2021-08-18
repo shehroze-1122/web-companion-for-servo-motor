@@ -33,6 +33,13 @@ p{
     font-size: 1.3rem;
 }
 
+.macro-micro-stepper button{
+    margin: 5px 10px;
+}
+.macro-micro-stepper input{
+    margin-left: 80px;
+}
+
 .icons{
     margin-top: 5px;
     display: flex;

@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react'
-import './App.css';
 import Sidebar from '../components/Sidebar.js';
 import Home from '../components/Home';
 import 'tachyons';

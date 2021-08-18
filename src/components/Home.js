@@ -12,8 +12,8 @@ const Home=()=>{
                 <h2>Web companion software development for servo motors and other controls </h2>
             </div>
             <div className="container">
-            <div className="text-center">
-                <input type="radio" name="stepping" value="micro-stepping" checked={stepState==="microstepping"}/>
+            <div className="text-center macro-micro-stepper">
+                <input type="radio" name="stepping" value="micro-stepping" checked={stepState==="microstepping"} />
                 <button className="stepping-inputs btn btn-primary" value="microstepping" onClick={(e)=>setStepState(e.target.value)}>Micro Stepping</button>
                 <input type="radio" name="stepping" value="macro-stepping" checked={stepState==="macrostepping"}/>
                 <button className="stepping-inputs btn btn-danger" value="macrostepping" onClick={(e)=>setStepState(e.target.value)}>Macro Stepping</button>
