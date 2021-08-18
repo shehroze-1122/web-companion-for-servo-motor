@@ -1,0 +1,85 @@
+*{
+    color: #fff;
+}
+
+.home-title{
+
+    padding: 20px;
+    text-align: center;
+    word-spacing: 8px;
+}
+.icons button{
+
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+.stepping-inputs{
+    margin: 0px 15px;
+    padding: 5px 10px;
+    font-size: 1.3rem;
+}
+.xy-movement, .z-movement{
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+p{
+    padding: 20px;
+    font-size: 1.3rem;
+}
+
+.icons{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.xy-movement .up,.xy-movement .down{
+    margin: 30px 0px;
+    color: tomato;
+}
+.z-movement .up, .z-movement .down{
+    margin: 40px 0px;
+    color: rgb(111, 0, 255);
+}
+
+.left-right{
+    margin-top: 10px 0px;
+}
+
+.icons .left{
+    color: rgb(31, 204, 83);
+    margin-left: 5px;
+}
+.icons .right{
+    color: rgb(31, 204, 83);
+    margin-left: 120px;
+}
+.icons i:hover{
+  color: white;  
+}
+
+.values-button{
+    padding: 5px 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-size: 1.3rem;
+}
+.x-value{
+    background-color: rgb(31, 204, 83) ;
+}
+.y-value{
+    background-color: tomato;
+}
+.z-value{
+    background-color: rgb(111, 0, 255) ;
+}
