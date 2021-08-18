@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-companion-for-servo-motor/static/css/main.946bf995.chunk.css",
+    "main.js": "/web-companion-for-servo-motor/static/js/main.c908fea5.chunk.js",
+    "main.js.map": "/web-companion-for-servo-motor/static/js/main.c908fea5.chunk.js.map",
+    "runtime-main.js": "/web-companion-for-servo-motor/static/js/runtime-main.5696cb87.js",
+    "runtime-main.js.map": "/web-companion-for-servo-motor/static/js/runtime-main.5696cb87.js.map",
+    "static/css/2.612342e0.chunk.css": "/web-companion-for-servo-motor/static/css/2.612342e0.chunk.css",
+    "static/js/2.131a04b9.chunk.js": "/web-companion-for-servo-motor/static/js/2.131a04b9.chunk.js",
+    "static/js/2.131a04b9.chunk.js.map": "/web-companion-for-servo-motor/static/js/2.131a04b9.chunk.js.map",
+    "index.html": "/web-companion-for-servo-motor/index.html",
+    "static/css/2.612342e0.chunk.css.map": "/web-companion-for-servo-motor/static/css/2.612342e0.chunk.css.map",
+    "static/css/main.946bf995.chunk.css.map": "/web-companion-for-servo-motor/static/css/main.946bf995.chunk.css.map",
+    "static/js/2.131a04b9.chunk.js.LICENSE.txt": "/web-companion-for-servo-motor/static/js/2.131a04b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5696cb87.js",
+    "static/css/2.612342e0.chunk.css",
+    "static/js/2.131a04b9.chunk.js",
+    "static/css/main.946bf995.chunk.css",
+    "static/js/main.c908fea5.chunk.js"
+  ]
+}
