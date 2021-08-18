@@ -16,7 +16,7 @@ function App() {
         </div>
         <div className="fl w-90 pa2">
           <Switch>
-            <Route path="/" exact component = {()=><Home/>}></Route>
+            <Route path="/" render = {()=><Home/>}></Route>
           </Switch>
         </div>
       </Router>
